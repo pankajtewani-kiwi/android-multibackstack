@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - chmod +x ./gradlew
+      - ./gradlew cleanBuild
+artifacts:
+  files:
+    - './android/multibackstack-sample/build/outputs/**/*.apk'
+  discard-paths: yes
