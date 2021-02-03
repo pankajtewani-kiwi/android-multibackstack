@@ -7,5 +7,5 @@ phases:
       - ./gradlew cleanBuild
 artifacts:
   files:
-    - './android/multibackstack-sample/build/outputs/**/*.apk'
+    - 'multibackstack-sample/build/outputs/**/*.apk'
   discard-paths: yes
