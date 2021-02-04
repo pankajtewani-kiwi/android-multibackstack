@@ -17,7 +17,7 @@ This library we use in our app [Hotellook][5].
 Compatibility
 -------------
 
-This library is compatible from API 9 (Android 2.3).
+This library is compatible from API 18 (Android 4.3).
 
 
 Download
